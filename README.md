@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarlyLamm 
 - 💻 I am a Software Engineer II for Walmart Global Tech
-- 👀 I enjoy working with DOTNET and Angular
-- 🌱 For self development i’m currently learning React-Native mobile development
+- 👀 I enjoy working with DOTNET and Angular, and mobile development with React Native
+- 🌱 For self development i’m currently learning GoLang
 - 📫 [Linkedin](https://www.linkedin.com/in/karly-lamm-0289a9141/) 
 
 
