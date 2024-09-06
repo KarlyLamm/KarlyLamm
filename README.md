@@ -15,7 +15,7 @@ I’m a passionate Software Engineering Consultant at Aviron Software, where I s
 - Currently Learning: GoLang, Kubernetes
 
 ## 🚀 Career Highlights
-I began my career as one of the initial engineers at a startup that was later acquired by Walmart. Growing with the company through its evolution and scaling was a pivotal experience that deepened my expertise in navigating both startup dynamics and corporate structures.
+I began my career as one of the initial engineers at a startup that was later acquired by Walmart. Growing with the company through its evolution and scaling was a pivotal experience that deepened my expertise in navigating both startup dynamics and corporate structures (Fortune 1).
 
 ## 📚 Currently Reading
 - Soft Skills: The Developer's Life Manual by John Z. Sonmez
