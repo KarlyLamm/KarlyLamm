@@ -6,6 +6,10 @@
 - 📫 [Linkedin](https://www.linkedin.com/in/karly-lamm-0289a9141/) 
 - 📧 KarlyLamm@gmail.com
 
+Follow me on Daily.Dev:
+[![Karly Lamm's Dev Card](https://api.daily.dev/devcards/v2/uOOG0emKc3JriGw20fwfd.png?type=wide&r=0wv)](https://app.daily.dev/klamm24)
+
+
 ## 🌟 About Me
 - 👋 Hi there, I’m Karly Lamm
 I’m a passionate Software Engineering Consultant at Aviron Software, where I specialize in crafting solutions and tackling challenges. I have a particular passion for working with and scaling small to mid-size companies, leveraging my software skills to drive growth and innovation.
