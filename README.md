@@ -5,9 +5,9 @@
 - 📚 I'm currently reading: Soft Skills The Developer's Life Manual by John Z. Sonmez
 - 📫 [Linkedin](https://www.linkedin.com/in/karly-lamm-0289a9141/) 
 - 📧 KarlyLamm@gmail.com
-
-Follow me on Daily.Dev:
+Join me on Daily Dev: https://dly.to/j0d1D2cF6Yb
 [![Karly Lamm's Dev Card](https://api.daily.dev/devcards/v2/uOOG0emKc3JriGw20fwfd.png?type=wide&r=0wv)](https://app.daily.dev/klamm24)
+
 
 
 ## 🌟 About Me
