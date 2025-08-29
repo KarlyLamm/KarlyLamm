@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @KarlyLamm 
-- 💻 I am the CEO & Founder of Zentry Pass
+- 💻 I am the CEO & Founder of [Zentry Pass](https://www.zentrypass.com) 
 - 💻 I am a Software Engineering Consultant for Aviron Software
 - 👀 I enjoy most working with React Native, C# .NET, React, and Angular
 - 🌱 For self-development I’m currently learning GoLang, and Kubernetes
-- 📚 I'm currently reading: Soft Skills The Developer's Life Manual by John Z. Sonmez
+- 📚 I'm currently reading: Venture Deals by Feld Mendelson
 - 📫 [Linkedin](https://www.linkedin.com/in/karly-lamm-0289a9141/) 
 - 📧 KarlyLamm@gmail.com
 - Join me on Daily Dev: https://dly.to/j0d1D2cF6Yb
