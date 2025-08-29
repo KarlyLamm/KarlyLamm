@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @KarlyLamm 
+- 💻 I am the CEO & Founder of Zentry Pass
 - 💻 I am a Software Engineering Consultant for Aviron Software
 - 👀 I enjoy most working with React Native, C# .NET, React, and Angular
 - 🌱 For self-development I’m currently learning GoLang, and Kubernetes
