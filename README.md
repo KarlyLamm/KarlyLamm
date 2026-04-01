@@ -9,8 +9,6 @@ I began my career as one of the early engineers at a startup that was later acqu
 
 ## 🌐 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/karly-lamm-0289a9141/) 
-- 📧 KarlyLamm@gmail.com
-I’d love to connect if you’re interested in discussing technology, scaling businesses, or just sharing ideas!
 
 <!---
 KarlyLamm/KarlyLamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
